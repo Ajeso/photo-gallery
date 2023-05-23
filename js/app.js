@@ -1,3 +1,1 @@
-window.addEventListener("load", function () {
-  baguetteBox.run(".gallery");
-});
+baguetteBox.run(".gallery");

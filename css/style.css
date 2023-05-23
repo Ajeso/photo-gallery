@@ -28,4 +28,10 @@
   gap: 1rem;
 
   justify-content: center;
+
+  margin: auto;
+}
+
+figure.hidden {
+  display: none;
 }
