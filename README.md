@@ -1,4 +1,4 @@
-# [AN INTERACTIVE PHOTO GALLERY](photo-gallery-vert.vercel.app).
+# [AN INTERACTIVE PHOTO GALLERY](https://vercel.com/ajeso/photo-gallery).
 
 \*This is Unit 5 project which entails creating a photo gallery using JavaScript and CSS Grid Layout.
 \*At the top of the page, I have a search area where photos will hide and show depending on user input. When the user clicks on a thumbnail, the photo will display in a lightbox. There should be "back" and "previous" arrows to cycle through photos.
